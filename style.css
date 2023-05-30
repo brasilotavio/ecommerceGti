@@ -1,0 +1,37 @@
+:root {
+    --preto: #000000;
+    --azul: #0045ce;
+    --vermelho: #a20000;
+}
+
+.bg1 {
+    background-color: var(--preto);
+}
+
+nav {
+    width: 100%;
+    height:10%;
+}
+
+.navIcon {
+    width: 60px;
+    height: 60px;
+}
+
+.centralElement {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centralText {
+    text-align: center;
+}
+
+#title {
+    font-weight: 900;
+}
+
+.txtPattern {
+    font-family:Arial, Helvetica, sans-serif
+}
